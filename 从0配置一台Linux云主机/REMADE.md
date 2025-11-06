@@ -52,8 +52,7 @@ sudo bash install.sh
 4. 输入clash订阅链接即可
 ```bash
 # 我的url：
-[[[https://qimeng.ffzjv.cn/api/v1/client/subscribe?token=ac518ececa6b139eca4ab2924e3aad96](https://qimeng.ffzjv.cn/api/v1/client/subscribe?token=0deca8eb09ca8b82dbac179682ab0146)](https://qimeng.ffzjv.cn/api/v1/client/subscribe?token=0deca8eb09ca8b82dbac179682ab0146)](https://qimeng.ffzjv.cn/api/v1/client/subscribe?token=0deca8eb09ca8b82dbac179682ab0146)
-
+https://qimeng.ffzjv.cn/api/v1/client/subscribe?token=ac518ececa6b139eca4ab2924e3aad96
 # 个人使用推荐购买地址：
 https://qimengyun.cc/index.php#/register?code=2gN4MCdN
 
@@ -64,6 +63,7 @@ https://paoluz.link/auth/register?code=Xund
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
 5.1 设置代理ui界面，记得提前在终端设置密码
 
 $ clashsecret 666
@@ -71,6 +71,9 @@ $ clashsecret 666
 
 $ clashsecret
 😼 当前密钥：666
+![alt text](image-32.png)
+![alt text](image-31.png)
+![alt text](image-33.png)
 
 6. 关闭自动启动clash
 root目录下的.bashrc文件中加入了这行代码，一旦检测到终端开启，则执行这个shell脚本。
