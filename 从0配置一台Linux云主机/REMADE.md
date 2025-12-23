@@ -7,8 +7,9 @@ cat /etc/os-release
 ## 二、检查系统apt源
 
 apt源配置文件位置/etc/apt/sources.list
-说明：文件内容为空，使用apt命令默认使用官方源。
+说明：文件内容为空，使用apt命令用不了，必须修改apt源。提供一个示例文件：[apt官方源（全球标准）](vscode-local:/c%3A/Users/12972/Downloads/sources.list)
 ![alt text](1749023691484.jpg)
+
 
 ## 三、检查python的pip源
 输入查询pip源代码指令
